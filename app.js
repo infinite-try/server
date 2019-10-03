@@ -6,3 +6,5 @@ var b = "login dong"
 var c = "sukses login"
 
 console.log(b, c)
+var routing = "/login"
+var routing = "/register"
